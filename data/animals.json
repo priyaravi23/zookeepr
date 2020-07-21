@@ -119,8 +119,14 @@
       "id": "11"
     },
     {
-      "name": "Darlene",
-      "id": "jhgdja3ng2"
+      "name": "Larry",
+      "species": "birds",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
